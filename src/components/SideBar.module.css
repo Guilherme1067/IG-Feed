@@ -1,5 +1,5 @@
 .sidebar {
-  width: 16.5rem;
+  /* width: 16.5rem; */
   background: var(--gray-800);
   border-radius: 8px;
   overflow: hidden;
@@ -51,7 +51,7 @@
   border: 1px solid var(--green-500);
   border-radius: 8px;
   height: 50px;
-  padding: 0 1.5rem;
+  padding: 0 1.2rem;
   font-weight: bold;
   display: block;
   text-decoration: none;
