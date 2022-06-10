@@ -12,8 +12,8 @@ export const SideBar = () => {
       />
       <div className={styles.profile}>
         <Avatar src="https://github.com/guilherme1067.png" />
-        <strong>Leslie ALexander</strong>
-        <span>UI Designer</span>
+        <strong>Guilherme Reis</strong>
+        <span>Front-End Engineer</span>
       </div>
 
       <footer>
